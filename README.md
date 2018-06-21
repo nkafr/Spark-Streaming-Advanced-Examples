@@ -13,7 +13,7 @@ These cases include:
 
 **PopularHashtags:** Listens to a stream of Tweets and keeps track of the most popular hashtags over a 5 minute window.  
 
-**PrintTweets:** Simple application to listen to a stream of Tweets and print them out  
+**PrintTweets:** Simple application to listen to a stream of Tweets and print them out.  
 
 **SaveTweets:** Listens to a stream of tweets and saves them to disk.  
 
@@ -23,4 +23,4 @@ These cases include:
 
 **StreamingRegression:** Example of using streaming linear regression with stochastic gradient descent. Listens to port 9999 for data on page speed vs. amount spent, and creates a linear model to predict amount spent by page speed over time.  
 
-**StructuredStreaming:** Example of Structured Streaming  
+**StructuredStreaming:** Example of Structured Streaming which aggregates the number of successful requests each hour 
