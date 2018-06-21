@@ -23,4 +23,4 @@ These cases include:
 
 **StreamingRegression:** Example of using streaming linear regression with stochastic gradient descent. Listens to port 9999 for data on page speed vs. amount spent, and creates a linear model to predict amount spent by page speed over time.  
 
-**StructuredStreaming:** Example of Structured Streaming which aggregates the number of successful requests each hour 
+**StructuredStreaming:** Example of Structured Streaming which aggregates the number of successful requests each hour .
