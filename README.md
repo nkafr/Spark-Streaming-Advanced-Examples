@@ -3,9 +3,9 @@ Examples of analyzing Tweets, csv files and Apache logs using Spark Streaming, S
 
 These cases include:
 
-LogAlarmer: Monitors a stream of Apache access logs on port 9999, and prints an alarm if an excessive ratio of errors is encountered.
+**LogAlarmer:** Monitors a stream of Apache access logs on port 9999, and prints an alarm if an excessive ratio of errors is encountered.
 
-LogParser: Maintains top URL's visited over a 5 minute window, from a stream of Apache access logs on port 9999.
+**LogParser:** Maintains top URL's visited over a 5 minute window, from a stream of Apache access logs on port 9999.
 
 LogSQL: Using SparkSQL with Spark Streaming, to issue queries on Apache log data extracted from a stream on port 9999.
 
